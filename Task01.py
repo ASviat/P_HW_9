@@ -30,3 +30,9 @@ my_matr = Matrix([[1, 2, 3],
 
 print(my_matr.__add__())
 
+
+
+
+
+
+
